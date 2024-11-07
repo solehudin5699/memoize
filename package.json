@@ -1,6 +1,6 @@
 {
     "name": "@solehudin5699/memoize",
-    "version": "0.0.0",
+    "version": "1.0.0",
     "description": "Utility for memoizing function in javascript",
     "main": "dist/index.js",
     "type": "module",
