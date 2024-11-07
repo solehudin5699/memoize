@@ -1,6 +1,6 @@
 # memoize
 
-memoize is a simple javaScript library that provides memoization functionality. By using memoization, you can cache the results of expensive function computations, enhancing application performance by avoiding repeated calculations.
+Simple javascript library that provides memoization functionality. By using memoization, you can cache the results of expensive function computations, enhancing application performance by avoiding repeated calculations.
 
 ## Features
 
